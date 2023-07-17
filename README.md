@@ -10,7 +10,7 @@ I strongly believe in the importance of constantly broadening my understanding a
 
 <br>
 
-## <p align="center">🌱 Expertises 🌱</p>
+## <p align="center">✨ Expertises ✨</p>
 
 <div> <p align="center">
  <img height="50em" src="./images/python.png?raw=true" />
