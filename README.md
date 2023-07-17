@@ -2,7 +2,7 @@
 
 ---
 
-## <p align="left">💬 About Me 💬</p>
+## <p align="center">💬 About Me 💬</p>
 
 I am an <u>**_enthusiastic_**</u> and <u>**_driven_**</u> software engineer who is dedicated to personal growth through acquiring knowledge. 
 
@@ -10,9 +10,9 @@ I strongly believe in the importance of constantly broadening my understanding a
 
 <br>
 
-## <p align="left">✨ Expertises ✨</p>
+## <p align="center">✨ Expertises ✨</p>
 
-<div> <p align="left">
+<div> <p align="center">
  <img height="50em" src="./images/python.png?raw=true" />
  <img height="50em" src="./images/c.png?raw=true" />
  <img height="50em" src="./images/cpp.png?raw=true" />
