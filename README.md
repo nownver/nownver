@@ -4,9 +4,10 @@
 
 ## <p align="center">💬 About Me 💬</p>
 
-I am an <u>**_enthusiastic_**</u> and <u>**_driven_**</u> software engineer who is dedicated to personal growth through acquiring knowledge. 
+<p align="center">
+<b>Software Engineer loading...</b>
+</p>
 
-I strongly believe in the importance of constantly broadening my understanding and keeping myself informed about the latest trends and optimal approaches in the software engineering field.
 
 <br>
 
