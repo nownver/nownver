@@ -5,7 +5,7 @@
 ## <p align="center">💬 About Me 💬</p>
 
 <p align="center">
-<b>Software Engineer loading...</b>
+<b>Software Engineer is loading...</b>
 </p>
 
 
